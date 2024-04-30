@@ -20,7 +20,7 @@ Toto je můj projekt - online šachy.
 
 - .NET Sockets
 
-## Jak spusti online šachy
+## Jak spustit online šachy
 
 - Stáhněte si "Online šachy"
 
