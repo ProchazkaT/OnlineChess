@@ -29,10 +29,10 @@ Toto je můj projekt - online šachy.
 
 ## Screenshots
 
-![App Screenshot](https://img.tpx.cz/uploads/Sachy2.png)
+![App Screenshot](https://img.tpx.cz/uploads/Sachy2.png)<br />
 Obrázek 1 - Připojovací okno
 
-![App Screenshot](https://img.tpx.cz/uploads/Sachy.png)
+![App Screenshot](https://img.tpx.cz/uploads/Sachy.png)<br />
 Obrázek 2 - Hrací okna
 ## Licence
 
